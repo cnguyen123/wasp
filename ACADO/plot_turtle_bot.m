@@ -1,7 +1,6 @@
 function [] =     plot_turtle_bot(x,y,theta)
 %UNTITLED3 Summary of this function goes here
-%   Detailed explanation goes here
-
+%   Change comment to see where it ends up
 %Correct lengths
 L=0.2;
 W=0.2;
